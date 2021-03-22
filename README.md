@@ -1,4 +1,4 @@
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouldcs&show_icons=true&theme=synthwave&show_icons=true&count_private=true)
+![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouldcs&show_icons=true&theme=great_gatsby&show_icons=true&count_private=true)
 
 <!--
 **gouldcs/gouldcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
