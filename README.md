@@ -6,7 +6,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 338 Contributions in the Year 2021
+> 🏆 341 Contributions in the Year 2021
  > 
 > 📦 55.5 kB Used in Github's Storage 
  > 
@@ -16,6 +16,48 @@
  > 
 > 🔑 21 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
+🌆 Daytime    49 commits     █████████░░░░░░░░░░░░░░░░   38.28% 
+🌃 Evening    48 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
+🌙 Night      22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.19%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       20 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+Tuesday      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
+Wednesday    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
+Friday       38 commits     ███████░░░░░░░░░░░░░░░░░░   29.69% 
+Saturday     22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
+Sunday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
