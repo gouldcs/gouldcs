@@ -5,6 +5,37 @@
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 338 Contributions in the Year 2021
+ > 
+> 📦 55.5 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 21 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               16 repos            █████████████░░░░░░░░░░░░   53.33% 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/gouldcs/gouldcs/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <!--
