@@ -2,13 +2,13 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 369 Contributions in the Year 2021
+> 🏆 381 Contributions in the Year 2021
  > 
-> 📦 55.6 kB Used in Github's Storage 
+> 📦 56.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -45,16 +45,22 @@ Sunday       15 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 26 mins       █████████████░░░░░░░░░░░░   53.22% 
+JSX                      1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   42.07% 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 34 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Speare                   2 hrs 26 mins       █████████████░░░░░░░░░░░░   53.37% 
+super-notes              2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   46.41% 
+dwelln-web               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
