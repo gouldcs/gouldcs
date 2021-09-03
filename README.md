@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -79,7 +79,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gouldcs/gouldcs/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2021
+ Last Updated on 03/09/2021
 <!--END_SECTION:waka-->
 
 <!--
