@@ -45,20 +45,16 @@ Sunday       29 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               34 mins             ████████████████░░░░░░░░░   64.01% 
-JSON                     15 mins             ███████░░░░░░░░░░░░░░░░░░   28.31% 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.85% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portfolio-site-21        50 mins             ███████████████████████░░   93.15% 
-language-competency      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.85%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,7 +75,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gouldcs/gouldcs/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 07/09/2021
 <!--END_SECTION:waka-->
 
 <!--
