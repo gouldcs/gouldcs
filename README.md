@@ -6,9 +6,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 562 Contributions in the Year 2021
  > 
-> 📦 101.2 kB Used in GitHub's Storage 
+> 📦 104.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -75,7 +75,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gouldcs/gouldcs/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
 
 <!--
