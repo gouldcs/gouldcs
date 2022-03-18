@@ -6,15 +6,15 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 27 Contributions in the Year 2022
+> 🏆 28 Contributions in the Year 2022
  > 
-> 📦 120.4 kB Used in GitHub's Storage 
+> 📦 122.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 31 Private Repositories  
+> 🔑 32 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -61,11 +61,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               23 repos            ██████████████░░░░░░░░░░░   56.1% 
-Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+JavaScript               23 repos            █████████████░░░░░░░░░░░░   53.49% 
+Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
 
 ```
 
@@ -75,7 +75,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gouldcs/gouldcs/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/03/2022 18:50:12 UTC
+ Last Updated on 18/03/2022 18:49:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
