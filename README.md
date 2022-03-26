@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,7 +75,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gouldcs/gouldcs/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/03/2022 18:49:31 UTC
+ Last Updated on 26/03/2022 18:48:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
