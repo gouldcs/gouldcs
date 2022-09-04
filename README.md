@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -18,48 +18,6 @@
  > 
 > 🔑 36 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
-🌆 Daytime    72 commits     █████████████░░░░░░░░░░░░   53.73% 
-🌃 Evening    36 commits     ██████░░░░░░░░░░░░░░░░░░░   26.87% 
-🌙 Night      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       29 commits     █████░░░░░░░░░░░░░░░░░░░░   21.64% 
-Tuesday      16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-Wednesday    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
-Thursday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Friday       27 commits     █████░░░░░░░░░░░░░░░░░░░░   20.15% 
-Saturday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Sunday       21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -77,7 +35,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gouldcs/gouldcs/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:51:20 UTC
+ Last Updated on 04/09/2022 18:51:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
