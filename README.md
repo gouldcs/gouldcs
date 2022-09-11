@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,7 +77,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gouldcs/gouldcs/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2022 18:54:30 UTC
+ Last Updated on 11/09/2022 18:54:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
