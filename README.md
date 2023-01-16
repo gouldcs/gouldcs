@@ -1,4 +1,4 @@
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouldcs&show_icons=true&theme=great-gatsby&show_icons=true&count_private=true)
+<!-- ![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouldcs&show_icons=true&theme=great-gatsby&show_icons=true&count_private=true) -->
 
 
 <!--START_SECTION:waka-->
